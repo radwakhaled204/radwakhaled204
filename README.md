@@ -20,7 +20,7 @@
 
 5-<a href="https://github.com/radwakhaled204/monty" target="blank">Monty</a>:This project is designed to parse Monty ByteCodes files, utilizing a stack data structure and executing a range of operations on it. Additionally, it includes error handling and manages edge cases effectively.
 
-6-<a href="https://github.com/radwakhaled204/sorting_algorithms:" target="blank">Sorting algorithms</a>:This task is part of a collaborative project for ALX SE, requiring the implementation of four distinct sorting algorithms in C. Subsequently, we conduct an analysis of their time complexity using Big O notation.
+6-<a href="https://github.com/radwakhaled204/sorting_algorithms" target="blank">Sorting algorithms</a>:This task is part of a collaborative project for ALX SE, requiring the implementation of four distinct sorting algorithms in C. Subsequently, we conduct an analysis of their time complexity using Big O notation.
 
 7-<a href="https://github.com/radwakhaled204/AirBnB clone" target="blank">AirBnB clone( in progress )</a>:This collaborative endeavor leverages the Object-Oriented Programming (OOP) paradigm and marks the initial phase toward developing a comprehensive Web Application. It encompasses fundamental aspects such as object creation and manipulation, data serialization and deserialization, console usage, unittest composition, and deployment of a static website. The project unfolds across four stages, each demanding a diverse array of Python scripts and HTML/CSS resources.
 
