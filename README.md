@@ -4,7 +4,7 @@
 ----------------------------------------------------------------------------------------------
 ### 😄 About ME
 
--"I'm Radwa, a passionate software engineering student focused on continuous growth and learning in the field. With hands-on experience gained through scholarships and training programs, I have completed diverse projects using multiple programming languages, I’m currently learning C,C++,C#,Python,Java,JavaScrip and more advanced topics such as data structures, algorithms and Linux".
+-"My name is Radwa, a passionate software engineering student dedicated to continuous growth and learning. With hands-on experience gained through scholarships and training programs, I have completed diverse projects using multiple programming languages , I’m currently enhancing my skills in .Net core (C#) , SQL and Python: and more advanced topics such as data structures, algorithms and Linux" .I have been working as a full stack developer, with a focus on backend development, for over a year.
 
 ---------------------------------------------------------------------------------------------
 ### 🌱 Projects
