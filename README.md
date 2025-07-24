@@ -1,10 +1,10 @@
 ### 👋 Hi There , I'm Radwa Khaled
 
-- I'm a Software Engineering Student and Student at ALX for SE.
+- I'm a Software Engineer and ALX Gradute.
 ----------------------------------------------------------------------------------------------
 ### 😄 About ME
 
--"My name is Radwa, a passionate software engineering student dedicated to continuous growth and learning. With hands-on experience gained through scholarships and training programs, I have completed diverse projects using multiple programming languages , I’m currently enhancing my skills in .Net core (C#) , SQL and Python: and more advanced topics such as data structures, algorithms and Linux" .I have been working as a full stack developer, with a focus on backend development, for over a year.
+-"My name is Radwa, a passionate software engineer dedicated to continuous growth and learning. With hands-on experience gained through scholarships and training programs, I have completed diverse projects using multiple programming languages , I’m currently enhancing my skills in .Net core (C#) , SQL and Python: and more advanced topics such as data structures, algorithms and Linux" .I have been working as a full stack developer, with a focus on backend development, for over a year.
 
 ---------------------------------------------------------------------------------------------
 ### 🌱 Projects
